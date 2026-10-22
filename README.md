@@ -63,7 +63,7 @@ FAVORITE OS: Asahi Fedora 🐧
 ### 📈 QUEST LOG (STATS)
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=mmkulmala&show_icons=true&theme=retro&count_private=true&hide=csharp" alt="Javasaurus Stats" height="165px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mmkulmala&show_icons=true&theme=retro&hide_langs=csharp" alt="Javasaurus Stats" height="165px" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mmkulmala&layout=compact&theme=retro" alt="Top Languages" height="165px" />
 </p>
 
