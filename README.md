@@ -62,9 +62,12 @@ FAVORITE OS: Asahi Fedora 🐧
 
 ### 📈 QUEST LOG (STATS)
 
-<p align="left">
-     <img src="https://github-profile-trophy.vercel.app/?username=mmkulmala&theme=retro" alt="Javasaurus Quest Trophies" />
-</p>
+| 👾 Achievement | 🏆 Rank | 📜 Description |
+| :--- | :--- | :--- |
+| **Code Alchemist** | Gold | Mastered multiple languages (Java, Python, Nim) |
+| **Automation Mage** | Infrastructure | Deployed scripts and Docker defenses |
+| **Linux Knight** | Sir | Upheld linux castle and infra walls |
+| **Indie Bard** | Level 1 | Brewing pixelated game magic with Raylib |
 
 ---
 
